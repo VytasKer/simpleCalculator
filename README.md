@@ -1,4 +1,4 @@
-# simpleCalculator
+# Simple Calculator
 
 The Simple Calculator is a simple Java program that allows users to perform basic arithmetic calculations. Users can input two numbers and select an operation (addition, subtraction, multiplication, or division) to perform calculations.
 
